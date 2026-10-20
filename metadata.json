@@ -1,0 +1,6 @@
+{
+  "name": "BLACKLINE BARBER CLUB",
+  "description": "Премиальный мужской барбершоп: мужские стрижки, оформление бороды, королевское бритьё и уход. Каталог услуг и удобная онлайн-запись.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
